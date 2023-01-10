@@ -321,7 +321,7 @@ body {
   aside div p:last-child {
     margin-bottom: 0;
     font-size: 0.8em;
-    text-align: right;
+    text-align: right; 
   }
   
   /* FOOTER */
@@ -384,3 +384,6 @@ body {
       display: none;
     }
   }
+
+
+  
